@@ -1,0 +1,40 @@
+{
+  "productsList": [
+    {
+      "id": 0,
+      "title": "STREAM VIDEO",
+      "category": "s"
+    },
+    {
+      "id": 1,
+      "title": "Temperature",
+      "category": "a"
+    },
+    {
+      "id": 2,
+      "title": "Air Purity",
+      "category": "b"
+    },
+    {
+      "id": 3,
+      "title": "Air Humidity",
+      "category": "c"
+    },
+    {
+      "id": 4,
+      "title": "Heart Rate",
+      "category": "d"
+    },
+
+    {
+      "id": 5,
+      "title": "Animal Temperature",
+      "category": "z"
+    },
+    {
+      "id": 6,
+      "title": "Oximeter",
+      "category": "f"
+    }
+  ]
+}
