@@ -1,4 +1,5 @@
 import React from "react";
+// mange file
 
 const Mange = () => {
   return (
